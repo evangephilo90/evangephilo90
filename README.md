@@ -11,6 +11,7 @@
 |---|---|---|
 | [💸 ExpenseBot](https://github.com/evangephilo90/expensebot) | WhatsApp-style AI expense tracker — just type what you spent | Node.js · Claude AI · IndexedDB |
 | [📈 StockLens](https://github.com/evangephilo90/stocklens) | Stock portfolio tracker with risk scoring & treemap visualization | Python · Flask · yfinance · Chart.js |
+| [🎯 BizCanvas](https://github.com/evangephilo90/bizcanvas) | AI startup idea validator — Canvas, SWOT, financials in 30 seconds | Node.js · Gemini AI · Chart.js |
 
 ---
 
