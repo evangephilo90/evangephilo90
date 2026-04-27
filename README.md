@@ -1,4 +1,4 @@
-# Hey, I'm Evangephilo 👋
+# Hey, I'm Evangeline Philothea 👋
 
 🚀 I build finance & AI tools that solve real-world problems.
 💡 Passionate about making complex financial data simple and accessible.
